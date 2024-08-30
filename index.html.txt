@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mein Terraria Server</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to my Terraria server!</h1>
+        <nav>
+            <ul>
+                <li><a href="#info">Infos</a></li>
+                <li><a href="#regeln">Regeln</a></li>
+                <li><a href="#kontakt">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="info">
+            <h2>Server Infos</h2>
+            <p>Our Terraria server offers exciting adventures and a friendly community. We have installed a variety of mods and organize regular events!</p>
+            <h3>Server-IP:</h3>
+            <p>SkysJunkServer.de:7777</p>
+            <h3>Spielversion:</h3>
+            <p>Terraria 1.4.5</p>
+        </section>
+
+        <section id="regeln">
+            <h2>Regeln</h2>
+            <ul>
+                <li>Respect other Players.</li>
+                <li>No Cheats or Hacks.</li>
+                <li>Behave in a friendly and helpful manner.</li>
+                <li>Reports unwanted behavior.</li>
+            </ul>
+        </section>
+
+        <section id="kontakt">
+            <h2>Kontakt<+49 1521 951817## no Flips :)/h2>
+            <p>If you have any questions or problems, you can contact us here:</p>
+            <p>Email: <a href="mailto:skysmanagement@terrariaserver.de">kontakt@terrariaserver.de</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 My Terraria Server. All rights reserved.</p>
+    </footer>
+</body>
+</html>
